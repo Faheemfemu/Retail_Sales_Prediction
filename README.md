@@ -7,9 +7,9 @@ The interest in a product continues to change occasionally. No business can work
 Our goal here is to forecast the sales for six weeks for each store and find out the factors influencing it and recommend ways in order to improve the numbers.
 
 # Approach
-Business Problem
-Data Collection and Preprocessing - Importing important libraries and modules -Data loading- Data Cleaning - Missing Data Handling - Merging the Datasets
-Exploratory Data Analysis - Hypotheses - Categorical Features - Continuous Features - EDA Conclusion and Validating Hypotheses
-Feature Selection and Outlier Detection - Feature Engineering - Outlier Detection and Treatment,multicolinearity and one hot coding
-Model implimentation -Tranforming data, Train Test Split - linear regression-lasso-elastic net - Decision Tree -Decisin tree hyperparameter tunning- Random Forest Model - Random Forest Hyperparameter Tuning - Random Forest Feature Importance
-Conclusion and Recommendations
+* Business Problem
+* Data Collection and Preprocessing - Importing important libraries and modules -Data loading- Data Cleaning - Missing Data Handling - Merging the Datasets
+* Exploratory Data Analysis - Hypotheses - Categorical Features - Continuous Features - EDA Conclusion and Validating Hypotheses
+* Feature Selection and Outlier Detection - Feature Engineering - Outlier Detection and Treatment,multicolinearity and one hot coding
+* Model implimentation -Tranforming data, Train Test Split - linear regression-lasso-elastic net - Decision Tree -Decisin tree hyperparameter tunning- Random Forest Model - Random Forest Hyperparameter Tuning - Random Forest Feature Importance
+* Conclusion and Recommendations
