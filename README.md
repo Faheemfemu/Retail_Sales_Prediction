@@ -13,3 +13,8 @@ Our goal here is to forecast the sales for six weeks for each store and find out
 * Feature Selection and Outlier Detection - Feature Engineering - Outlier Detection and Treatment,multicolinearity and one hot coding
 * Model implimentation -Tranforming data, Train Test Split - linear regression-lasso-elastic net - Decision Tree -Decisin tree hyperparameter tunning- Random Forest Model - Random Forest Hyperparameter Tuning - Random Forest Feature Importance
 * Conclusion and Recommendations
+# Challenges
+● The major challenge would be the
+computational time and RAM needed to
+work upon such a dataset in a cloud
+environment.
